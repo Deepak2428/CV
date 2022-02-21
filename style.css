@@ -1,0 +1,35 @@
+
+body
+{
+    background-color: rgb(222, 240, 240);
+}
+hr
+{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: rgb(156, 153, 155);
+    border-width: 8px;
+    background-color: rgb(215, 255, 255);
+    width:20%;
+}
+h2
+{
+    color:#66bfbf;
+}
+
+ol.contact
+{
+    list-style: none;
+}
+
+a
+{
+    text-decoration: none;
+    color:black;
+}
+
+a:visited
+{
+    text-decoration: none;
+    color:black;
+}
